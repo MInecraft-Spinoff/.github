@@ -1,11 +1,3 @@
-## How it was made
-Please play Nether Quest.
-The game was coded in <a href="https://scratch.mit.edu">Scratch</a>.
-
-After that I converted it into a EXE, macOS, Linux application using <a href="https://github.com/Nether-Quest/exe-packager">a EXE converter</a> by TurboWarp.
-
-I also generated a <a href="https://github.com/Nether-Quest/Plain-HTML">HTML file</a> and converted it into a <a href="https://appsgeyser.com/blog/convert-html-to-apk-for-free/">apk file/a> for android.
-
 # NETHER QUEST GAME DOCUMENTATION:
 
 ## How to install:
@@ -61,6 +53,7 @@ v1.0.1
 
 ### STABLE VERSIONS:
 v1.0.6
+
 
 ## How it was made
 The game was coded in <a href="https://scratch.mit.edu">Scratch</a>.
