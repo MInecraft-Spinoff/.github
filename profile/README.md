@@ -81,7 +81,7 @@ The game was coded in <a href="https://scratch.mit.edu">Scratch</a>.
 
 After that I converted it into a EXE, macOS, Linux application using <a href="https://github.com/Nether-Quest/exe-packager">a EXE converter</a> by TurboWarp.
 
-I also generated a <a href="https://github.com/Nether-Quest/Plain-HTML">HTML file</a> and converted it into a <a href="https://appsgeyser.com/blog/convert-html-to-apk-for-free/">apk file/a> for android.
+I also generated a <a href="https://github.com/Nether-Quest/Plain-HTML">HTML file</a> and converted it into a <a href="https://appsgeyser.com/blog/convert-html-to-apk-for-free">apk file</a> for android.
   
   
 ## SPECIAL VERSIONS:
@@ -161,15 +161,13 @@ Brand new version 2! WOOHOO! :)
 
 #### Game:
 ##### Known Bugs:
-Joystick is still there after the game ends
+-
   
 ##### Bug fixes:
-Fixed ghast stops moving when health is 9 or below
-  
-You can no longer place blocks after game ends
+-
   
 ##### New Featues:
-Coded in HTML, CSS and Javascript instead of Scratch
+-
 
 
 ### v1.0.7 (WIP):
@@ -187,33 +185,11 @@ Coded in HTML, CSS and Javascript instead of Scratch
 
 ##### Game:
 ##### Known Bugs:
-Joystick is still there after the game ends
+-
 ##### Bug fixes:
-Fixed ghast stops moving when health is 9 or below
-  
-You can no longer place blocks after game ends
+-
 ##### New Featues:
-Arrow is faster
-  
-Press space to attack with sword
-  
-Creative mode
-  
-Shield to block fireballs (press space to activate)
-  
-Shield was also added as the game was really hard after wall bug got fixed
-  
-Added secret aimbot for bow (try to find if you can)
-  
-Added in health instead of chances
-  
-Added macOS version (experimental)
-  
-Added Android version (experimental)
-  
-Added Linux version (experimental)
-  
-Added a joystick for mobile (turn on mobile version to activate joystick)
+-
 
 
 ### v1.0.6:
